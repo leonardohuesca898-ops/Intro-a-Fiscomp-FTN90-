@@ -1,4 +1,4 @@
-PROGRAM IEEE
+PROGRAM exerA
 IMPLICIT NONE
 
 ! Specification-part (declaracao de variaveis)
@@ -22,7 +22,7 @@ DO i = 1, 1000
  END DO
 
 
- END PROGRAM IEEE 
+ END PROGRAM exerA
 
     
     
